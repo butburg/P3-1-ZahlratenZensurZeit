@@ -1,3 +1,7 @@
+/*
+ * Author: butburg
+ */
+
 package com.prog3;
 
 import com.prog3.bruch.*;
